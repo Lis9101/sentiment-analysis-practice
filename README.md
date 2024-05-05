@@ -4,9 +4,9 @@ Original notebooks are stored on Google Colab.
 
 Datasets used:
 
-[Sentiment Analysis Dataset](https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset)
+- [Sentiment Analysis Dataset](https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset)
 
-[Sentiment140 dataset with 1.6 million tweets](https://www.kaggle.com/datasets/kazanova/sentiment140/data), which is the dataset for ACM AI Tweetiment hackathon
+- [Sentiment140 dataset with 1.6 million tweets](https://www.kaggle.com/datasets/kazanova/sentiment140/data), which is the dataset for ACM AI Tweetiment hackathon
 
 
 Main tutorial followed:
